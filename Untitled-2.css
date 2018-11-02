@@ -1,0 +1,22 @@
+body {
+     margin: 0;
+     padding: 0;
+     text-align: center;
+	 opacity: 0.5;
+}
+
+.transparan1{
+	background:#000;opacity:90;filter:alpha(opacity=90);
+}
+
+.bg {
+     width: 85%;
+     height: 100%;
+     z-index: 1;
+     float: left;
+     left: 0;
+	 opacity: 10%;
+}
+
+.h1 {text-align: center;
+}
